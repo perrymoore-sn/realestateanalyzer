@@ -81,7 +81,7 @@ Each test shows resulting NOI, cash flow (annual/monthly), and pass/fail status.
 
 **No installation required!** This is a single-file HTML application.
 
-1. Download the real-estate-analyzer-v4.html(https://github.com/perrymoore-sn/realestateanalyzer/blob/main/real-estate-analyzer-v4.html)
+1. Download the [real-estate-analyzer-v4.html](https://github.com/perrymoore-sn/realestateanalyzer/blob/main/real-estate-analyzer-v4.html)
 2. Open it in any modern web browser (Chrome, Firefox, Safari, Edge)
 3. Start analyzing properties immediately
 
@@ -148,6 +148,8 @@ That's it! No servers, no dependencies, no setup.
 
 ### Importing Data
 
+- **Try doing this all using [the CSV file](https://github.com/perrymoore-sn/realestateanalyzer/blob/main/Perry_Moore_LTR_MLS_Search_1_11_26.csv) attached!**
+
 **CSV Import (Properties):**
 - Click "Import CSV" in the sidebar
 - Select a CSV file with columns: Address, City, Price, Square Footage, Beds, Baths
@@ -158,8 +160,6 @@ That's it! No servers, no dependencies, no setup.
 - From the Add/Edit tab, click "Import CSV" under Comparable Properties
 - Select a CSV with comparable property data
 - Automatically populates comp fields for analysis
-
-- **Try doing this all using [the CSV file](https://github.com/perrymoore-sn/realestateanalyzer/blob/main/Perry_Moore_LTR_MLS_Search_1_11_26.csv) attached!**
 
 ## 📊 Default Markets
 
