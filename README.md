@@ -81,7 +81,7 @@ Each test shows resulting NOI, cash flow (annual/monthly), and pass/fail status.
 
 **No installation required!** This is a single-file HTML application.
 
-1. Download the [real-estate-analyzer-v4.html](https://github.com/perrymoore-sn/realestateanalyzer/blob/main/real-estate-analyzer-v4.html)
+1. Download the file by following this link: [real-estate-analyzer-v4.html](https://github.com/perrymoore-sn/realestateanalyzer/blob/main/real-estate-analyzer-v4.html)
 2. Open it in any modern web browser (Chrome, Firefox, Safari, Edge)
 3. Start analyzing properties immediately
 
