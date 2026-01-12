@@ -7,6 +7,7 @@ A powerful, professional-grade real estate investment analysis tool for buy-and-
 
 ## ✨ Features
 <img width="1919" height="932" alt="Image" src="https://github.com/user-attachments/assets/3f811075-1cda-4d26-b3d0-42d3c2e0f3b4" />
+
 ### 📊 **Comprehensive Analysis Dashboard**
 - **Sortable Property Table** - Click any column header to sort properties by address, market, price, bedrooms/bathrooms, rent, cash flow, CoC%, cap rate, or DSCR
 - **Property Overview** - See key property details including beds/baths at a glance
@@ -15,6 +16,7 @@ A powerful, professional-grade real estate investment analysis tool for buy-and-
 - **Pass/Fail Indicators** - Visual status showing which properties meet your investment criteria
 
 <img width="1918" height="932" alt="Screenshot 2026-01-12 at 7 47 37 AM" src="https://github.com/user-attachments/assets/88478989-af4b-41c0-85cb-ccd8315045da" />
+
 ### 💰 **Investment Metrics**
 - **Cash-on-Cash Return** - Annual cash flow as % of total cash invested (8% minimum hurdle rate)
 - **Cap Rate** - Net Operating Income as % of purchase price (6% minimum hurdle rate)
@@ -23,6 +25,7 @@ A powerful, professional-grade real estate investment analysis tool for buy-and-
 - **NOI (Net Operating Income)** - Professional-grade income/expense calculations
   
 <img width="1919" height="933" alt="Screenshot 2026-01-12 at 7 44 08 AM" src="https://github.com/user-attachments/assets/f58b2493-4866-4808-903f-c259980858e8" />
+
 ### 🔬 **Stress Testing**
 Three conservative scenarios to test property resilience:
 - **25% Vacancy Spike** - Tests ability to handle extended vacancies
@@ -32,6 +35,7 @@ Three conservative scenarios to test property resilience:
 Each test shows resulting NOI, cash flow (annual/monthly), and pass/fail status.
 
 <img width="1924" height="933" alt="Screenshot 2026-01-12 at 7 47 50 AM" src="https://github.com/user-attachments/assets/201f5a6a-c9d4-47ac-b14e-b5272ea458ae" />
+
 ### 📈 **10-Year Wealth Building Projections**
 - **Detailed Year-by-Year Breakdown** - Rental income, expenses, NOI, cash flow, principal paydown, remaining loan balance, property value, and equity
 - **Cash Flow Chart** - Visual representation of annual and cumulative cash flow over time
@@ -154,6 +158,8 @@ That's it! No servers, no dependencies, no setup.
 - From the Add/Edit tab, click "Import CSV" under Comparable Properties
 - Select a CSV with comparable property data
 - Automatically populates comp fields for analysis
+
+- Try the CSV file attached!
 
 ## 📊 Default Markets
 
