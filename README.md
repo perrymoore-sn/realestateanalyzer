@@ -159,7 +159,7 @@ That's it! No servers, no dependencies, no setup.
 - Select a CSV with comparable property data
 - Automatically populates comp fields for analysis
 
-- Try the CSV file attached!
+- **Try doing this all using [the CSV file](https://github.com/perrymoore-sn/realestateanalyzer/blob/main/Perry_Moore_LTR_MLS_Search_1_11_26.csv) attached!**
 
 ## 📊 Default Markets
 
